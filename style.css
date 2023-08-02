@@ -1,0 +1,15 @@
+#sciol{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.text{
+    border: 1px, solid, lightgray;
+}
+
+.text img{
+width: 100%;
+}
+.text h3 p{
+    margin: 20px;
+    }
